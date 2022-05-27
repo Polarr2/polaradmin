@@ -1,0 +1,13 @@
+{
+  "name": "PolarAdmin",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "PolarAdmin": {
+        "$path": "PolarAdmin"
+      }
+    }
+  }
+}

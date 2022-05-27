@@ -1,0 +1,9 @@
+[package]
+name = "polarsystems/polaradmin"
+version = "0.0.12"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+exclude = ["polaradmin.project.json","wally.lock"]
+
+[dependencies]
+polaradmin = "polarsystems/polaradmin@0.0.12"
